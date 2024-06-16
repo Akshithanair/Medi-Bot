@@ -1,4 +1,4 @@
-# Medi-Bot-
+# Medi-Bot
 Ai-Chatbot for Healthcare
 
 # GEMINI AI FOR HEALTHCARE CHATBOT
